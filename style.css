@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Urbanist';
+    background-image: url(img/3.png);
+}
+
+a{
+color: white;    
+text-decoration: none;
+text-transform: capitalize;
+padding: 0 10px;
+} 
+
+.main-content h1{
+    background: none;
+color: white;
+font-size: 4rem;
+position: relative;
+letter-spacing: 5px;
+width: 100%;
+text-align: center;
+-webkit-box-reflect: below 1px linear-gradient(transparent,#0004);
+line-height: 0.70em;
+outline: none;
+animation: animate 5s linear infinite;
+}
+
+.main-content p{
+    color: white;
+}
+
+#gallery h1{
+    background: none;
+    color: white;
+    font-size: 4rem;
+    position: relative;
+    letter-spacing: 5px;
+    width: 100%;
+    text-align: center;
+    -webkit-box-reflect: below 1px linear-gradient(transparent,#0004);
+    line-height: 0.70em;
+}
+
+#gallery p{
+    color: white;
+}
+
+#aboutus h1{
+    background: none;
+    color: white;
+    font-size: 4rem;
+    position: relative;
+    letter-spacing: 5px;
+    width: 100%;
+    text-align: center;
+    -webkit-box-reflect: below 1px linear-gradient(transparent,#0004);
+    line-height: 0.70em;
+}
+
+#aboutus p{
+    color: white;
+}
+
+#aboutus h2{
+    color: white;
+    font-size: 3rem;
+    text-align: justify;
+    background-color: #0b1116;
+}
+
+#contactus h1{
+    background: none;
+    color: white;
+    font-size: 4rem;
+    position: relative;
+    letter-spacing: 5px;
+    width: 100%;
+    text-align: center;
+    -webkit-box-reflect: below 1px linear-gradient(transparent,#0004);
+    line-height: 0.70em;
+}
+
+#contactus p{
+    color: white;
+}
